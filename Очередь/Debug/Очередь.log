@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Арина\source\repos\Очередь\Source.cpp(128,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Очередь\Source.cpp(154,20): warning C4018: <: несоответствие типов со знаком и без знака
+  Очередь.vcxproj -> C:\Users\Арина\source\repos\Очередь\Debug\Очередь.exe
